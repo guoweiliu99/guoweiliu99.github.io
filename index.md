@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/guoweiliu.jpg" alt="guoweiliu" style="zoom:80%;" />
+<img src="/guoweiliu.jpg" alt="guoweiliu" class="floatpic" width="360" height="480" />
 
 Here is **Guowei Liu (刘国伟)**.
 
