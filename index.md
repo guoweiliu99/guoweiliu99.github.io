@@ -10,7 +10,7 @@ Here is **Guowei Liu (刘国伟)**.
 
 I am a graduate student majoring in Modern Educational Technology at Shaanxi Normal University. Currently, I serve as a research assistant at the Engineering Laboratory of Teaching Information Technology of Shaanxi Province, advised by Prof. Longjiang Guo.  Also I am a full-time Informatics Technology Teacher \& Electronic Education Administrator in Shandong Shouguang Modern High School.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at *snnulgw@gmail.com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at *snnulgw@gmail.com*, guoweiliu@snnu.edu.cn
 
 ## Academic Background
 
