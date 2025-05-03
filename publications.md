@@ -1,46 +1,18 @@
 ---
 layout: page
 permalink: /publications/index.html
-title: Publications
+title: Publications 
 ---
 
-> Lastest Update: 14th May 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+## Journal Articles
 
-## Conference Paper
-
-- Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2024](https://www.sigmobile.org/mobisys/2024/))<br>Tokyo, Japan. June, 2024.
-
-  <br>
-
-
----
-
-## Thesis (FYP)
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Best Project Award (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at [China Huading Tech](http://www.hdim.com.cn/) and [IIoT Lab](https://dqxy.fzu.edu.cn/en/)<br>
-
-  <br>
+- 刘国伟, 等. 以培养计算思维能力为导向的算法设计与分析教学方法探索[J]. 计算机教育, 2022, (05): 189-195. DOI:10.16512/j.cnki.jsjjy.2022.05.038. （第一作者，中国计算机学会推荐B类中文科技期刊）
+- Guowei Liu, et al. "Type diversity maximization aware coursewares crowdcollection with limited budget in MOOCs." *Information Sciences* 649 (2023): 119663.（同等一作，中科院1区Top期刊，CCF-B）
+- 刘国伟, 等. 融合STEAM教育的中小学人工智能课堂教学探索——以基于OPENVINO的人脸识别体验为例[J]. 2025, (09)（第一作者，中国计算机学会推荐B类中文科技期刊）
+- Guowei Liu, et al. "Comprehensive exercise recommendation with practicality, generalizability, and versatility in AI-driven education." *Information Processing & Management* 62.3 (2025): 104051. （第一作者，中科院1区Top期刊，CCF-B）
 
 ---
 
 ## Manuscript
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classification Machine Learning Techniques<br>
-
-- Multi-objective Optimization Model Based on Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>
-
-  <br>
-
----
-
-## Early Project
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>AAAI Conference on Artificial Intelligence. Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium-program/))<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior year course design, early project.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*Freshman course design, early project.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
-
-  <br>
+- Effects of generative AI-based IT course assistant on students' learning engagement, computational thinking skills and academic achievement in project-based learning classroom (Planning to submit to *Computers & Education*)
