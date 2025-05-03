@@ -1,0 +1,6 @@
+git push -u origin main
+
+不是 master！
+
+邮箱 snnulgw@gmail.com 
+guoweiliu99
