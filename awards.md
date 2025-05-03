@@ -4,35 +4,31 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Lastest Update: 20th May 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
-
 ## Scholarships
 
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- May 2024：Shiran Innovation Sponsorship ($1400)<br>One of the highest research awards in my school
-- Aug 2023：FEPG Scholarship ($1400)<br>One of the highest undergraduate awards in my school
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- 国家奖学金（本科生）, 中华人民共和国教育部, 2019年12月（8000￥）
+- 光正教育奖学金, 陕西师范大学 & 光正教育集团, 2020年11月（5000￥）
+- 感恩中国近现代科学家奖学金, 西南交通大学, 2020年12月（20000￥）
+- 国家奖学金（本科生）, 中华人民共和国教育部, 2021年12月（8000￥）
+- 校级一等优秀奖学金, 陕西师范大学, 2019-2021（3*1000￥）
 
-## Competitions (Selected)
+------
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- June 2023：First Prize (Provincial championship) in Fujian Youth Science Innovation Project Competition (Top 3%)
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+## Awards
 
-## Services
+- 陕西省数学建模大赛一等奖, 2020年12月
+- 陕西省第8届程序设计大赛铜奖, 2021年7月
+- 陕西师范大学优秀本科毕业设计, 2022年6月
+- 陕西省普通高等学校优秀本科毕业生, 2022年6月
 
-- Dec 2023 - Present：AAAI Student Membership
-- Sep 2022 - Present：IEEE Student Membership
-- Sep 2022 - Present：CAAI Student Membership
-- April 2022：Top 10 Best Volunteers (Only 10/30000) of Fuzhou University
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- July 2021：Outstanding volunteer at the 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at the 4th Digital China Summit<br>
+------
+
+- 2022年度教育技术论文活动“展示论文”：《面向计算思维能力培养的项目式教学研究——以“算法初步”模块为例》, 教育部教育技术与资源发展中心（中央电化教育馆）, 2022年12月
+- 2022年潍坊市中小学实验教学优质课评选活动信心技术组三等奖：《基于Python Turtle库的多彩图画绘制》, 潍坊市创新教育研究院, 2022年12月
+- 2022-2023学年潍坊市中小学创新技能系列活动头脑奥林匹克竞赛二等奖, 潍坊市教育局 & 潍坊市科学技术协会, 2023年6月
+- 第七届全国青少年无人机大赛旋翼类/团体接力飞行赛优秀辅导员, 中国航空学会, 2023年8月
+- 2023年潍坊市“三说”比赛高中信心技术说课展示一等奖, 潍坊市教育科学研究院, 2023年10月
+- 2023年寿光市优秀考试工作者, 寿光市教育和体育局, 2024年2月
+- 2023年度寿光市教学成果一等奖：《中学生信心化素养与创新能力培养路径研究》, 寿光市教育和体育局, 2024年4月
+- 2023-2024学年潍坊市中小学创新技能系列活动头脑奥林匹克竞赛三等奖, 潍坊市教育局 & 潍坊市科学技术协会, 2024年4月
+- 第十五届“北斗杯”全国青少年空天科技体验与创新大赛山东赛区“北斗智慧时空”创意小论文高中组二等奖（指导教师）, 中国科学院空天信息创新研究院 & 中国光华科技基金会 & 中国卫星导航系统管理办公室学术交流中心, 2024年8月
