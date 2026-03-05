@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/index.html
+permalink: /Algorithms/index.html
 title: Algorithms  
 ---
 
